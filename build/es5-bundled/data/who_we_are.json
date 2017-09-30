@@ -1,0 +1,38 @@
+[
+    {
+        "name":"Bakisi Mathias",
+        "title":"Executive Director",
+        "category":"NULL Category",
+        
+        "description":"Bakisi's Description if there is.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;",
+        "image":"data/images/executive_director.jpeg",
+        "largeImage":"data/images/executive_director.jpeg"
+    },
+    {
+        "name":"Mrs. Bakisi Mathias",
+        "title":"Programme Director",
+        "category":"NULL Category",
+        
+        "description":"Shemeji's Description if there is.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;",
+        "image":"data/images/programme_director.jpeg",
+        "largeImage":"data/images/programme_director.jpeg"
+    },
+    {
+        "name":"SBCCOPManager",
+        "title":"Social Behaviour and Community Outreach Programme Manager",
+        "category":"NULL Category",
+        
+        "description":"SBCCOPManager's Description if there is.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;",
+        "image":"data/images/SBCCOPManager.jpeg",
+        "largeImage":"data/images/SBCCOPManager.jpeg"
+    },
+    {
+        "name":"Fadhili Bryceson",
+        "title":"Chief Finance Officer",
+        "category":"NULL Category",
+       
+        "description":"Chief Finance Officer's Description if there is.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;",
+        "image":"",
+        "largeImage":""
+    }
+]
